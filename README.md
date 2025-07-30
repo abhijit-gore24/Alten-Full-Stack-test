@@ -58,9 +58,6 @@ A window will automatically open at [localhost:4200](http://localhost:4200). Ang
 9. You can now visit the public IP of your AWS EC2 followed by the port, eg: `12.34.56.78:3000`
 10. Tip: use [pm2](https://pm2.keymetrics.io/) to run the app instead of `npm start`, eg: `pm2 start dist/server/app.js`
 
-## Preview
-![Preview](https://raw.githubusercontent.com/DavideViolante/Angular2-Full-Stack/master/demo.gif "Preview")
-
 ## Please open an issue if
 * you have any suggestion to improve this project
 * you noticed any problem or error
@@ -73,12 +70,10 @@ Run `npm run test:be` to execute the backend tests via [Jest](https://jestjs.io/
 ## Running linters
 Run `npm run lint` to execute [Angular ESLint](https://github.com/angular-eslint/angular-eslint), [HTML linting](https://github.com/htmlhint/HTMLHint) and [SASS linting](https://github.com/sasstools/sass-lint).
 
-## Wiki
-To get more help about this project, [visit the official wiki](https://github.com/DavideViolante/Angular-Full-Stack/wiki).
 
 ## Further help
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ### Author
-* [Davide Violante](https://github.com/DavideViolante)
+* [Abhijit Gore]([https://github.com/DavideViolante](https://www.linkedin.com/in/abhijit-gore-5a71b4180/))
 >>>>>>> 827de5f (Initial Commit)
