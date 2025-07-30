@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Alten-Full-Stack-test
 Created the Full Stack application using Angular &amp; NodeJs And Used Mongo as Database
 =======
@@ -76,4 +75,3 @@ To get more help on the `angular-cli` use `ng --help` or go check out the [Angul
 
 ### Author
 * [Abhijit Gore]([https://github.com/DavideViolante](https://www.linkedin.com/in/abhijit-gore-5a71b4180/))
->>>>>>> 827de5f (Initial Commit)
