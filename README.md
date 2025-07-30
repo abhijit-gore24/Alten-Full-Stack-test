@@ -1,4 +1,4 @@
-# Alten-Full-Stack-test
+# Alten-Full-Stack-test Abhijit Gore 
 Created the Full Stack application using Angular &amp; NodeJs And Used Mongo as Database
 =======
 # Angular Full Stack 
